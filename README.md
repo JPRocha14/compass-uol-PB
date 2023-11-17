@@ -1,6 +1,4 @@
-<p align="center"> 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsdrocha14@gmail.com) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/)
-</p>
 
 # :computer: Programa de Bolsas - COMPASS UOL 
 Este é um repositório reservado para o Programa de Bolsas da empresa **Compass UOL.**
