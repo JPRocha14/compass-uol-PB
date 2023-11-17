@@ -3,10 +3,10 @@
         <img width="100" height="100" src="sprint_1/evidencias/EFJC.gif" alt="dev">
         </div>
         <a href="https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/">
-            <img width="80" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+            <img width="70" height="15" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
         </a>
         <a href="mailto:jpsdrocha14@gmail.com">
-            <img width="80" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+            <img width="70" height="15" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
         <h2>Olá, seja bem vindo 👋</h2>
 </div>
