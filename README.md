@@ -1,12 +1,13 @@
 <div align="center">
-        <div class="tenor-gif-embed" data-postid="24712790" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/software-software-development-gif-24712790">Software Software Development GIF</a>from <a href="https://tenor.com/search/software-gifs">Software GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        <img src="sprint_1/evidencias/EFJC.gif" alt="dev">
         <a href="https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
         </a>
         <a href="mailto:jpsdrocha14@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-    </div>
+        <h2>Olá, seja bem vindo 👋</h2>
+</div>
 
 
 
