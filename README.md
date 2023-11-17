@@ -8,7 +8,7 @@
         <a href="mailto:jpsdrocha14@gmail.com">
             <img width="100" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        <h2>Olá, seja bem vindo 👋</h2>
+        <h2>Bem vindo(a)! 👋</h2>
 </div>
 
 
