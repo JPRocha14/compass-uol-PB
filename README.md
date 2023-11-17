@@ -1,14 +1,12 @@
-![DEV](https://tenor.com/pt-BR/view/software-software-development-gif-24712790)
-
 <div align="center">
+        <div class="tenor-gif-embed" data-postid="24712790" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/software-software-development-gif-24712790">Software Software Development GIF</a>from <a href="https://tenor.com/search/software-gifs">Software GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
         <a href="https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
         </a>
         <a href="mailto:jpsdrocha14@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        <h2>Olá, seja bem vindo 👋</h2>
-</div>
+    </div>
 
 
 
@@ -21,14 +19,7 @@ Na área de tecnologia, tive uma experiência de 7 meses como Auxiliar de TI em 
 Meu hobby atual é estudar o máximo de coisas que envolvem tecnologia, para que assim, eu possa me tornar um profissional capacitado e apto a ajudar meus colegas de trabalho.1
 
 ## :dart: Habilidades:
-![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01style=for-the-badge&logo=microsoft-office&logoColor=white) 
 
 
 ## :books: Aprendizados:
