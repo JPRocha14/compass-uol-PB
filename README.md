@@ -19,7 +19,7 @@
 ## 👨‍💻 Sobre mim:
 * Olá, sou João Pedro Santana Dias Rocha, atualmente estou cursando o 2º semestre de Sistemas de Informação na faculdade UniNassau, em Salvador-BA. 
 Na área de tecnologia, tive uma experiência de 7 meses como Auxiliar de TI em uma empresa de refrigeração (Esfriar Refrigeração), onde trabalhei mais com a parte de hardware dos computadores. Porém, não me identifiquei com a área, e foi quando surgiu a oportunidade única de me juntar ao time da Compass.
-Meu hobby atual é estudar o máximo de coisas que envolvem tecnologia, para que assim, eu possa me tornar um profissional capacitado e apto a ajudar meus colegas de trabalho.1
+Meu hobby atual é estudar o máximo de coisas que envolvem tecnologia, para que assim, eu possa me tornar um profissional capacitado e apto a ajudar meus colegas de trabalho.
 
 ## :dart: Habilidades:
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
