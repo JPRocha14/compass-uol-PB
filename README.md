@@ -1,4 +1,4 @@
-![GIF DEV](https://tenor.com/pt-BR/view/software-software-development-gif-24712790)
+![DEV](https://tenor.com/pt-BR/view/software-software-development-gif-24712790)
 
 <div align="center">
         <a href="https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/">
@@ -7,7 +7,9 @@
         <a href="mailto:jpsdrocha14@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
+        <h2>Olá, seja bem vindo 👋</h2>
 </div>
+
 
 
 # :computer: Programa de Bolsas - COMPASS UOL 
